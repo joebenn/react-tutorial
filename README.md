@@ -1,4 +1,4 @@
-:boom:
+:boom: React Tutorial from https://reactjs.org/tutorial/tutorial.html AUTO README Below:
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
